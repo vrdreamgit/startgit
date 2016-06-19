@@ -3,3 +3,4 @@ amend hello
 add a col again
 ok
 hi hi
+test checkout
